@@ -475,20 +475,18 @@ One platform. Data to decision to action.
 
 Let's say you're a CMO spending $2M a year on paid media. Right now, your match rate is sitting at 20%. That means for every dollar you spend, 80 cents targets a stranger.
 
-First, we'll connect Minerva to every source you run. HubSpot. Stripe. Klaviyo. Shopify. Right now, the Agentic Data Engineer reads every table, finds every connection, and builds one unified customer record. What your data team quoted six months and $100,000 to build, Minerva finishes in three days.
+First, we'll connect Minerva to every source you run: HubSpot, Stripe, Klaviyo, Shopify. The Agentic Data Engineer reads every table, finds every connection, builds one unified customer record. What your data team quoted six months and $100,000 to build, Minerva finishes in three days.
 
-Next, we'll open Person Search. Type your ICP: tech founders, Series A through C, high net worth. Minerva cross-references 270 million Americans and returns the list. Not a segment. Not a lookalike estimate. Real names. Real profiles. You see who you're spending money on before you spend it.
+Next, we'll open Person Search. Type in your ideal customer: tech founders, Series A through C, high net worth. Minerva cross-references 270 million Americans and returns thousands of names. Click into any one of them and see their job, their company, what they browsed last week. You know exactly who you're about to spend money on.
 
-Now let's ask Minerva: "Where am I losing money?" It pulls from every source, finds the gap, builds the audience to fix it, and pushes it straight to Meta, Google, or your sales team.
+Now let's ask Minerva: "Where am I losing money?" It finds the gap, builds the audience to fix it, and pushes it to Meta, Google, or your sales team.
 
 Hard Rock Stadium, Wander, and Juicebox already run on Minerva.
 
-**Story arc breakdown:**
-- `$2M / 20% / 80 cents targets a stranger` — pain made visceral with dollar math (new: the "80 cents" line converts abstract match rate into money the viewer feels)
-- `What your data team quoted six months and $100,000 to build, Minerva finishes in three days.` — wow moment 1 (speed kill)
-- `Not a segment. Not a lookalike estimate. Real names. Real profiles.` — wow moment 2 (black box killer), replaces old "Not a black box. Actual people." with more specific contrast
-- `You see who you're spending money on before you spend it.` — payoff line (new: ties back to the "80 cents" pain from the opener, completing the story loop)
-- Social proof closes it. No tagline after. The story is done.
+**What changed (anti-slop pass):**
+- `HubSpot. Stripe. Klaviyo. Shopify.` → `HubSpot, Stripe, Klaviyo, Shopify.` — staccato fragments → flowing spoken list
+- `Not a segment. Not a lookalike estimate. Real names. Real profiles.` → `Click into any one of them and see their job, their company, what they browsed last week.` — AI fragment pattern → natural human narration of what's on screen
+- `You see who you're spending money on before you spend it.` → `You know exactly who you're about to spend money on.` — ties back to "80 cents" opener, closes the story loop
 
 ---
 
