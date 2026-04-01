@@ -341,18 +341,47 @@ This is Person Search's strongest setup line. Consider adding to Body V4 or as a
 
 ---
 
-### VISUAL HOOK #3: "THE INTERROGATION ROOM" ← BOLD ALTERNATIVE
+### VISUAL HOOK #3: "THE BLINDFOLD TRADER" ← STRONGEST VISUAL [NEW]
 
-**Viral source:** Vanity Fair Lie Detector series. Hot Ones. Crime drama.
-**Why it's bold:** The interrogation room creates instant tension. The product reveals the truth.
+**Viral source:** Trading floor content, Wall Street aesthetic (The Big Short, Billions), blindfold challenge format.
+**Why it's the strongest:** The absurdity of a blindfolded trader spending millions is instantly, viscerally wrong to anyone. No marketing knowledge needed. The viewer FEELS the problem before you explain it. Connects to Wall Street DNA without naming Citadel or anyone the viewer won't know.
 
 **Shot-by-shot:**
-- **0:00-0:02** — Dark room. Overhead light. Metal table. A voice off-camera: *"Tell me about your customers."*
-- **0:02-0:04** — Cut to a CMO in the hot seat. Nervous. *"We have their email. Some phone numbers. We think we know their job titles."*
-- **0:04-0:06** — A folder slides across the table. CMO opens it. Inside: a full Minerva profile. Eyes go wide.
-- **0:06-0:08** — Jackson/MJ: *"You had 20%. Here's the other 80."*
+- **0:00-0:02** — Close-up: A man in a suit sitting in front of 6 monitors, charts flying, phone ringing. He's making calls. Big numbers flash on screen. He's blindfolded. The viewer sees it immediately.
+- **0:02-0:04** — VO (Jackson): *"Right now, most CMOs are spending millions on ads exactly like this. Running campaigns on 20% of their actual customer data. Completely blind."*
+- **0:04-0:06** — He rips off the blindfold. Cut to Minerva dashboard on the monitors. Full customer profiles. Match rate: 80%.
+- **0:06-0:08** — Jackson to camera: *"We built the thing that removes the blindfold. Let me show you how it works."*
 
-**Difficulty:** Low-Medium. Risk: can feel dark. Note — DepthFirst already did lie detector for Shown Media. This is different (interrogation, not polygraph) but confirm client is okay with the tone.
+**Production requirements:**
+- Actor in suit, 6-monitor desk setup (can be rented studio)
+- Blindfold (simple black cloth)
+- Minerva UI on screens for reveal shot
+- Difficulty: LOW. No VFX. No actors with lines. Just one guy, monitors, and a blindfold.
+
+**Why this beats other formats:**
+- Extreme visual in first frame (blindfolded man at trading desk = instant WTF)
+- Zero jargon needed to understand the metaphor
+- The Wall Street aesthetic conveys "serious money" without naming Citadel or anyone
+- The blindfold rip-off IS the product reveal
+- Cheapest to produce of all visual hooks
+
+---
+
+### VISUAL HOOK #4: "THE SECURITY CAMERA WALL" ← RECOMMENDED ALTERNATE [NEW]
+
+**Viral source:** Crime documentary aesthetic, surveillance footage, control room reveals.
+**Why it works:** The metaphor is literal. "Your ad platform can only see 20% of your customers" becomes a physical reality: 80 blank screens on a wall.
+
+**Shot-by-shot:**
+- **0:00-0:02** — Jackson walks into a dark monitoring room. Flips a light switch. Wall of 100 security camera screens. 80 of them are black/static. 20 show customer profiles.
+- **0:02-0:04** — Jackson: *"This is your ad platform. It can see these 20 people."* Points at the lit screens. *"The other 80? Invisible."*
+- **0:04-0:06** — He opens a laptop. Types. One by one, all 80 dark screens flicker to life: faces, names, job titles, purchase signals. The wall glows.
+- **0:06-0:08** — Jackson: *"Minerva shows you all of them. Let me show you how."*
+
+**Production requirements:**
+- Studio/room with multi-screen setup (can composite in post)
+- Motion graphics for the screen "light up" sequence (the money shot)
+- Difficulty: Medium (VFX for the screens, but no actors besides Jackson)
 
 ---
 
@@ -378,9 +407,7 @@ Your marketing team just spent six months and $100,000 connecting your customer 
 
 ---
 
-### HOOK C — TALKING HEAD (Wall Street Angle) — 221 chars
-
-MJ built Citadel's alternative data platform. He spent a decade turning market signals into trading edge. Then we pointed that same infrastructure at your customers. 270 million Americans. 70 to 80% match rates. Let me show you what it can do.
+### ~~HOOK C — KILLED~~ (Citadel/MJ angle removed: "MJ" and "Citadel" mean nothing to a viewer who scrolls in cold)
 
 ---
 
@@ -400,10 +427,10 @@ Let me show you how it works.
 
 ---
 
-### HOOK F — TYPE 1: RAISE + VIOLENT VERB (Alejandro Bot Formula) — 181 chars
-*(This is the formula Type 1 hook — required by the knowledge base. Violent verb: "kill". Enemy: blind ad spend. Follows: "We raised $X to [verb] [enemy]. Introducing [Product], the world's first [category] that [bold outcome]. Let me show you how it works.")*
+### HOOK F — TYPE 1: RAISE + VIOLENT VERB (Alejandro Bot Formula) — 186 chars
+*(Type 1 formula. Violent verb: "kill". Enemy: blind ad spend. Broadened: "B2B2C identity graph" replaced with plain language anyone understands.)*
 
-We raised $20M to kill blind ad spend. Introducing Minerva: the world's first B2B2C identity graph. 270 million Americans. Match rates from 20% to 80%. Let me show you how it works.
+We raised $20M to kill blind ad spend. Introducing Minerva: the first platform that shows you who your customers actually are. Your ad platform sees 20%. Minerva sees 80. Let me show you how it works.
 
 ---
 
@@ -443,29 +470,25 @@ One platform. Data to decision to action.
 
 ---
 
-## SECTION 8B: BODY V3 — ALEJANDRO FLOW REVISION (871 chars)
-*(Incorporates Alejandro's VM feedback: scenario setup opener, "First we'll", "Right now", "Next we'll", "Now let's ask" — demonstrational feel, viewer is part of the demo, present tense, one end outcome)*
+## SECTION 8B: BODY V4 — STORYTELLING REVISION (893 chars)
+*(Every sentence provides value or advances the story. Zero filler. Zero buzzword closers. Alejandro flow starters + narrative arc: situation → pain → first wow → second wow → payoff → social proof.)*
 
-Let's say you're a CMO spending $2M a year on paid media. Right now, your match rate is 20%.
+Let's say you're a CMO spending $2M a year on paid media. Right now, your match rate is sitting at 20%. That means for every dollar you spend, 80 cents targets a stranger.
 
-First, we'll connect Minerva to every source you run. HubSpot. Stripe. Klaviyo. Shopify. Right now, the Agentic Data Engineer reads every table, finds the connections, builds one unified customer record. Six months and $100,000 worth of data work, done in three days.
+First, we'll connect Minerva to every source you run. HubSpot. Stripe. Klaviyo. Shopify. Right now, the Agentic Data Engineer reads every table, finds every connection, and builds one unified customer record. What your data team quoted six months and $100,000 to build, Minerva finishes in three days.
 
-Next, we'll open Person Search. Type your ICP: tech founders, Series A through C, high net worth. Minerva cross-references 270 million Americans and returns the list. Real names. Real profiles. Match rates at 80 percent. Not a black box. Actual people.
+Next, we'll open Person Search. Type your ICP: tech founders, Series A through C, high net worth. Minerva cross-references 270 million Americans and returns the list. Not a segment. Not a lookalike estimate. Real names. Real profiles. You see who you're spending money on before you spend it.
 
-Now let's ask: "Where am I losing money?" Right now, Minerva pulls from every source, finds the gap, builds the audience, and pushes it to Meta, Google, or your sales team.
+Now let's ask Minerva: "Where am I losing money?" It pulls from every source, finds the gap, builds the audience to fix it, and pushes it straight to Meta, Google, or your sales team.
 
 Hard Rock Stadium, Wander, and Juicebox already run on Minerva.
 
-One platform. Data to decision to action.
-
-**Flow sentence breakdown (per Alejandro knowledge base):**
-- `Let's say you're a CMO...` — scenario setup (matches: Parker, Iris, WithCoverage, Arcads, Icon, Meridian, Owner)
-- `Right now, your match rate is 20%.` — present tense, situates the pain
-- `First, we'll connect...` — demo entry starter (matches: DepthFirst, Draftboard)
-- `Right now, the Agentic Data Engineer reads...` — product as autonomous agent
-- `Next, we'll open Person Search.` — sequential demo pivot
-- `Now let's ask:` — conversational prompt with quotes (matches: Iris "Let's ask Fin:", Durable prompt style)
-- `Right now, Minerva pulls...` — final action, present tense
+**Story arc breakdown:**
+- `$2M / 20% / 80 cents targets a stranger` — pain made visceral with dollar math (new: the "80 cents" line converts abstract match rate into money the viewer feels)
+- `What your data team quoted six months and $100,000 to build, Minerva finishes in three days.` — wow moment 1 (speed kill)
+- `Not a segment. Not a lookalike estimate. Real names. Real profiles.` — wow moment 2 (black box killer), replaces old "Not a black box. Actual people." with more specific contrast
+- `You see who you're spending money on before you spend it.` — payoff line (new: ties back to the "80 cents" pain from the opener, completing the story loop)
+- Social proof closes it. No tagline after. The story is done.
 
 ---
 
@@ -485,20 +508,20 @@ To celebrate our launch, we're giving away a free Match Rate Audit. See exactly 
 
 | Combo | Hook | Body | CTA | Total | Status |
 |---|---|---|---|---|---|
-| A + V1 + X | 141 | 873 | 183 | 1,197 | PASS |
-| A + V2 + X | 141 | 841 | 183 | 1,165 | PASS |
-| A + V3 + X | 141 | 871 | 183 | 1,195 | PASS ← **RECOMMENDED** |
-| B + V1 + X | 214 | 873 | 183 | 1,270 | PASS |
-| B + V3 + X | 214 | 871 | 183 | 1,268 | PASS |
-| C + V1 + X | 221 | 873 | 183 | 1,277 | PASS |
-| D + V3 + X | 198 | 871 | 183 | 1,252 | PASS |
-| F + V3 + X | 181 | 871 | 183 | 1,235 | PASS ← **TYPE 1 FORMULA** |
-| A + V3 + LI | 141 | 871 | 171 | 1,183 | PASS |
-| F + V3 + LI | 181 | 871 | 171 | 1,223 | PASS |
+| F + V4 + X | 186 | 893 | 183 | 1,262 | PASS ← **RECOMMENDED** |
+| A + V4 + X | 141 | 893 | 183 | 1,217 | PASS ← **SAFETY** |
+| B + V4 + X | 214 | 893 | 183 | 1,290 | PASS |
+| D + V4 + X | 198 | 893 | 183 | 1,274 | PASS |
+| F + V4 + LI | 186 | 893 | 171 | 1,250 | PASS |
+| A + V4 + LI | 141 | 893 | 171 | 1,205 | PASS |
 
-**All combos pass 1,400 char limit. Tightest (A + V2): 1,165. Widest margin: 235+ chars buffer.**
+**All combos pass 1,400 char limit. Buffer: 110+ chars minimum.**
 
-**Hook A char count updated: 193 → 141 after removing "Same audience, three times the data" (second outcome, dilutes focus per Alejandro feedback).**
+**Changes from last version:**
+- Hook C killed (Citadel/MJ = meaningless to cold viewer)
+- Hook F broadened: "B2B2C identity graph" → "the first platform that shows you who your customers actually are"
+- Body V3 → V4: storytelling revision. "80 cents targets a stranger" makes the math visceral. "Not a segment. Not a lookalike estimate." replaces vague "Not a black box." Buzzword closer ("One platform. Data to decision to action.") killed.
+- Visual hooks: Blindfold Trader + Security Camera Wall added to Section 5
 
 ---
 
@@ -741,6 +764,14 @@ Template: "We raised $[X] to [violent verb] [enemy]. Introducing [Product], the 
 - Body V3 added: full flow sentence revision — "Let's say you're a CMO...", "Right now, your match rate is 20%.", "First, we'll connect...", "Right now, the Agentic Data Engineer reads...", "Next, we'll open Person Search.", "Now let's ask: 'Where am I losing money?'", "Right now, Minerva pulls..." — demonstrational feel, viewer is part of the demo.
 - Section 16 added: 15 reference hooks from Alejandro Bot production library (WithCoverage, DepthFirst, Durable, Marpipe, Arcads, Moda, Icon, Rokt, Contra, Owner, Meridian, Draftboard) — side-by-side comparison table showing Hook F matches all 6 production criteria.
 - Character count table expanded to 10 combos including V3 and Hook F combos.
+
+**MASTER V2 → MASTER V3 changes (Cal feedback, April 1 2026):**
+- Hook C killed: "MJ" and "Citadel" mean nothing to a viewer who scrolls in cold. No one knows who they are.
+- Hook F broadened: "B2B2C identity graph" replaced with "the first platform that shows you who your customers actually are." Every viewer understands this.
+- Body V3 → V4: Storytelling revision. Every sentence provides value. Added "80 cents targets a stranger" (makes match rate pain visceral with dollar math). "Not a segment. Not a lookalike estimate." replaces vague "Not a black box." Killed buzzword closer "One platform. Data to decision to action." — added nothing, just filler.
+- Visual Hook #3 replaced: Interrogation Room → Blindfold Trader (extreme visual, zero jargon, cheapest to produce, Wall Street aesthetic without naming Citadel).
+- Visual Hook #4 added: Security Camera Wall (literal metaphor for invisible customers becoming visible).
+- Saved to memory: every sentence in a script must provide value and move the story forward. No empty taglines or buzzword sign-offs.
 
 ---
 
