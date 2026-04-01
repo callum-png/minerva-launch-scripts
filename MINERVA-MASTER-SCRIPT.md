@@ -486,18 +486,19 @@ One platform. Data to decision to action.
 
 Let's say you're a CMO spending $2M a year on paid media. Right now, your match rate is sitting at 20%. That means for every dollar you spend, 80 cents targets a stranger.
 
-First, we'll connect Minerva to every source you run: HubSpot, Stripe, Klaviyo, Shopify. The Agentic Data Engineer reads every table, finds every connection, builds one unified customer record. What your data team quoted six months and $100,000 to build, Minerva finishes in three days.
+First, we'll connect Minerva to every source you run: HubSpot, Stripe, Klaviyo, Shopify — over 120 integrations, all connected in under a minute. Then the Agentic Data Engineer takes over. It deploys [X] specialized AI agents that crawl every table across every source, map [X] data points per customer — work history, personal identifiers, device IDs, browsing behavior, even property records going back to the 1970s across all 3,500 US counties — and stitch it all into one unified customer record. What your data team quoted six months and $100,000 to build, Minerva finishes in three days.
 
-Next, we'll open Person Search. Type in your ideal customer: tech founders, Series A through C, high net worth. Minerva cross-references 270 million Americans and returns thousands of names. Click into any one of them and see their job, their company, what they browsed last week. You know exactly who you're about to spend money on.
+Next, we'll open Person Search. Type in your ideal customer: tech founders, Series A through C, high net worth. Minerva cross-references 270 million Americans across [X] identity signals — work email, personal email, phone number, device ID, hashed identifiers, physical address, and behavioral data — and returns thousands of names. Click into any one of them and see their job, their company, their income bracket, what they browsed last week. You know exactly who you're about to spend money on.
 
-Now let's ask Minerva: "Where am I losing money?" It finds the gap, builds the audience to fix it, and pushes it to Meta, Google, or your sales team.
+Now let's ask Minerva: "Where am I losing money?" It pulls from every connected source, finds the gap in your funnel, builds the audience to fix it, and pushes it straight to Meta, Google, or your sales team — all from one dashboard.
 
 Hard Rock Stadium, Wander, and Juicebox already run on Minerva.
 
-**What changed (anti-slop pass):**
-- `HubSpot. Stripe. Klaviyo. Shopify.` → `HubSpot, Stripe, Klaviyo, Shopify.` — staccato fragments → flowing spoken list
-- `Not a segment. Not a lookalike estimate. Real names. Real profiles.` → `Click into any one of them and see their job, their company, what they browsed last week.` — AI fragment pattern → natural human narration of what's on screen
-- `You see who you're spending money on before you spend it.` → `You know exactly who you're about to spend money on.` — ties back to "80 cents" opener, closes the story loop
+**[X] PLACEHOLDERS — NEED MINERVA TEAM TO CONFIRM:**
+- How many AI agents does the Agentic Data Engineer deploy? (e.g., "deploys 12 specialized AI agents")
+- How many data points per customer record? (e.g., "maps 1,200 data points per customer")
+- How many identity signals does Person Search cross-reference? (e.g., "across 15 identity signals")
+- These numbers make or break the impressiveness of the demo. Get exact figures from Jackson/MJ.
 
 ---
 
