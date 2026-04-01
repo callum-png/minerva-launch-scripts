@@ -12,7 +12,7 @@
 **Tagline:** Data to decision to action
 
 **The Product in plain English:**
-Minerva built a proprietary identity graph on 270 million Americans — professional data, personal data, behavioral signals, all unified. When a brand connects their customer data to Minerva, match rates jump from 20% (Meta/Google standard) to 70-80%. The Agentic Data Engineer automates what normally takes a data engineering team 6 months and $100K — done in days. Person Search lets you build an audience of real, named individuals. Not a black box. Not a lookalike estimate. Actual people.
+Minerva built a proprietary identity graph on 270 million Americans — professional data, personal data, behavioral signals, all unified. When a brand connects their customer data to Minerva, match rates jump from 20% (Meta/Google standard) to 70-80%. The Agentic Data Engineer automates what normally takes a data engineering team 6 months and $100K — done in days. Person Search lets you build an audience of real, named individuals you can click into and verify before you spend a dollar.
 
 **Founders:**
 - **Jackson** (CEO) — finance background, Berkeley
@@ -367,21 +367,32 @@ This is Person Search's strongest setup line. Consider adding to Body V4 or as a
 
 ---
 
-### VISUAL HOOK #4: "THE SECURITY CAMERA WALL" ← RECOMMENDED ALTERNATE [NEW]
+### VISUAL HOOK #4: "THE DATA DATE" ← STRONGEST VISUAL [NEW]
 
-**Viral source:** Crime documentary aesthetic, surveillance footage, control room reveals.
-**Why it works:** The metaphor is literal. "Your ad platform can only see 20% of your customers" becomes a physical reality: 80 blank screens on a wall.
+**Viral source:** Cluely Blind Date video — Roy Lee, April 2025. 13M+ views on X, 38M+ combined across TikTok. 11.4% engagement rate. 220K+ new followers in weeks.
+**Reference video:** Roy Lee / Cluely (@caboroy on X). Man sits across from a date while a transparent UI overlay feeds him real-time data about her. She eventually storms out when she realizes. Went megaviral because the floating UI between two real people is visually impossible to scroll past.
+**Why it's the one for Minerva:** The transparent data overlay showing hidden information about a real person IS what Minerva does. The format already proved it can hit tens of millions of views with a B2B product. The "how does he know that?" reaction creates the same Zeigarnik loop as the Mind Reader concept but with a proven viral reference.
 
 **Shot-by-shot:**
-- **0:00-0:02** — Jackson walks into a dark monitoring room. Flips a light switch. Wall of 100 security camera screens. 80 of them are black/static. 20 show customer profiles.
-- **0:02-0:04** — Jackson: *"This is your ad platform. It can see these 20 people."* Points at the lit screens. *"The other 80? Invisible."*
-- **0:04-0:06** — He opens a laptop. Types. One by one, all 80 dark screens flicker to life: faces, names, job titles, purchase signals. The wall glows.
-- **0:06-0:08** — Jackson: *"Minerva shows you all of them. Let me show you how."*
+- **0:00-0:02** — Two people sit across from each other at a table. A marketer and a stranger. Clean setup, well lit. Feels like a conversation. Then a transparent UI overlay fades in between them, visible to the camera but not to the stranger. Data starts populating.
+- **0:02-0:05** — The overlay reveals information about the stranger in real time: *"Sarah Chen, 34. Marketing Director. Bought running shoes 3x this year. Abandoned cart Tuesday. Austin, TX. Household income: $120K. In-market for enterprise SaaS."* Each data point appears one after another. The marketer's eyes widen as they read it.
+- **0:05-0:07** — The marketer looks up from the overlay and says something impossibly specific to the stranger: *"You were looking at project management tools last week, weren't you?"* The stranger's face drops. *"How do you know that?"*
+- **0:07-0:09** — The marketer turns the laptop around. Minerva Person Search is open. The stranger's full profile is on screen. The marketer looks at the camera: *"Your ad platform sees 20% of your customers. We see 80. Let me show you how it works."*
 
 **Production requirements:**
-- Studio/room with multi-screen setup (can composite in post)
-- Motion graphics for the screen "light up" sequence (the money shot)
-- Difficulty: Medium (VFX for the screens, but no actors besides Jackson)
+- 2 people at a table (Jackson or actor + stranger/actor)
+- Transparent UI overlay (post-production motion graphics, same technique as Cluely)
+- Laptop with Minerva UI pre-loaded for the reveal shot
+- 2-camera setup (wide + close-ups on reactions)
+- Difficulty: Medium (the overlay VFX is the key investment, but Cluely proved it works at scale)
+
+**Why this beats every other format:**
+- Proven viral ceiling: 13M+ views on a single post with a B2B product
+- The transparent overlay is visually arresting in the first frame — you cannot scroll past floating data between two people
+- The stranger's genuine reaction ("How do you know that?") is the emotional hook that drives shares
+- The product reveal (Minerva dashboard) is organic — it explains the "trick"
+- The format maps 1:1 to what Minerva actually does: showing hidden data about real people
+- Low risk: Cluely already proved B2B audiences engage with this format at massive scale
 
 ---
 
@@ -442,7 +453,7 @@ Let's say you're a CMO. You're spending $2M a year on paid media. Match rates ar
 
 First, connect Minerva to every data source you run. HubSpot. Salesforce. Stripe. Klaviyo. 120 integrations. Our Agentic Data Engineer reads every table, finds the connections, and builds one unified customer record. What your data team spent six months and six figures doing, done in three days.
 
-Next, Person Search. Type in your ICP: tech founders, Series A to C, high net worth, New York. Minerva cross-references 270 million Americans. Professional data, personal data, behavioral signals. Match rates go from 20% to 80%. You see every person in the audience before you spend a dollar. Real names. Real profiles. No black box.
+Next, Person Search. Type in your ICP: tech founders, Series A to C, high net worth, New York. Minerva cross-references 270 million Americans. Professional data, personal data, behavioral signals. Match rates go from 20% to 80%. Click into any one of them and see their job, their income bracket, what they browsed last week.
 
 Now ask: where am I losing money? Minerva pulls from every source, finds the gap, builds the audience, and pushes it to Meta, Google, or your sales team.
 
@@ -460,7 +471,7 @@ Here's what happens when a CMO connects Minerva.
 
 Every data source plugs in. HubSpot. Stripe. Klaviyo. Shopify. The Agentic Data Engineer reads every table, finds every connection, and builds one unified customer record. What cost $100,000 and six months, done in three days. No data engineers. No warehouse to manage.
 
-Then open Person Search. Type: tech founders, Series A through C, New York, high net worth. Minerva cross-references 270 million Americans. Professional data, personal data, purchase signals. The list comes back. Real names. Real profiles. Match rates at 70 to 80% instead of 20. You see every person in your audience before you spend a dollar. Not a black box. Actual people.
+Then open Person Search. Type: tech founders, Series A through C, New York, high net worth. Minerva cross-references 270 million Americans. Professional data, personal data, purchase signals. The list comes back with thousands of names and you can click into any one of them. Match rates at 70 to 80% instead of 20. You know exactly who you're about to spend money on.
 
 Every conversion makes it smarter. A new customer tags automatically: sports affinity, high-income household, in-market for SaaS. Your next audience is sharper. Without touching your data.
 
@@ -544,7 +555,7 @@ To celebrate our launch, we're giving away a free Match Rate Audit. See exactly 
 - [x] Fifth grade readability
 - [x] Ammunition present: funding (implied), customer names, match rate stats
 - [x] Lead magnet: Match Rate Audit (personalized, creates fear + desire)
-- [x] Subtle controversy: "Not a black box. Actual people." (pokes Meta/Google)
+- [x] Subtle controversy: "You know exactly who you're about to spend money on" (pokes Meta/Google black box)
 - [x] Reply trigger: "Comment 'Minerva'" mechanic
 - [x] Giveaway requiring retweet + comment on X version
 
@@ -564,12 +575,12 @@ To celebrate our launch, we're giving away a free Match Rate Audit. See exactly 
 ### Screenshotable Lines
 1. "What cost $100,000 and six months, done in three days."
 2. "Match rates go from 20% to 80%."
-3. "Not a black box. Actual people."
+3. "You know exactly who you're about to spend money on."
 4. "One platform. Data to decision to action."
 5. "Your ad platform reaches 20% of them. Minerva reaches 80."
 
 ### Subtle Controversy Elements
-- "Not a black box. Actual people." — pokes Meta/Google platform advocates
+- "Click into any one of them and see their job, their company, what they browsed last week" — contrasts directly with Meta/Google black box targeting
 - "What your data team spent six months and six figures doing, done in three days." — data engineers and CDP vendors will feel this
 - Hook C (Citadel angle) — finance community will share it, marketing community will debate it
 
