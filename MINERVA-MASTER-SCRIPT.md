@@ -374,10 +374,17 @@ This is Person Search's strongest setup line. Consider adding to Body V4 or as a
 **Why it's the one for Minerva:** The transparent data overlay showing hidden information about a real person IS what Minerva does. The format already proved it can hit tens of millions of views with a B2B product. The "how does he know that?" reaction creates the same Zeigarnik loop as the Mind Reader concept but with a proven viral reference.
 
 **Shot-by-shot:**
-- **0:00-0:02** — Two people sit across from each other at a table. A marketer and a stranger. Clean setup, well lit. Feels like a conversation. Then a transparent UI overlay fades in between them, visible to the camera but not to the stranger. Data starts populating.
-- **0:02-0:05** — The overlay reveals information about the stranger in real time: *"Sarah Chen, 34. Marketing Director. Bought running shoes 3x this year. Abandoned cart Tuesday. Austin, TX. Household income: $120K. In-market for enterprise SaaS."* Each data point appears one after another. The marketer's eyes widen as they read it.
-- **0:05-0:07** — The marketer looks up from the overlay and says something impossibly specific to the stranger: *"You were looking at project management tools last week, weren't you?"* The stranger's face drops. *"How do you know that?"*
-- **0:07-0:09** — The marketer turns the laptop around. Minerva Person Search is open. The stranger's full profile is on screen. The marketer looks at the camera: *"Your ad platform sees 20% of your customers. We see 80. Let me show you how it works."*
+- **0:00-0:02** — Two people sit across from each other at a table. Jackson and a stranger. Casual, well lit. Feels like a normal conversation. Then a transparent UI overlay fades in between them, visible to the camera but not to the stranger. Data starts populating.
+- **0:02-0:05** — Jackson starts saying things he shouldn't know: *"You moved to Austin two years ago. You drive a black Model Y. You bought a Peloton in January and cancelled it in March. You've been looking at houses in the $800K range."* Each fact lands harder than the last. The stranger's face goes from confused to stunned.
+- **0:05-0:07** — The stranger: *"Who are you?"* Jackson slides the laptop across the table. Minerva Person Search is open. Their full profile is on screen.
+- **0:07-0:09** — Jackson: *"I'm the CEO of Minerva. I just showed you what we can do with one person. Imagine what happens when you do this with 270 million Americans. Let me show you."*
+
+**Why the dialogue is broad (Cluely lesson):**
+- Zero marketing jargon in the hook. No "ad platform," no "match rate," no "CMO." Those live in the body.
+- The hook works on ANYONE — a marketer, a teenager, someone's mom. The fascination is universal: "How does he know that about a stranger?"
+- The personal details (car, home price, cancelled subscription) are things every viewer relates to. They immediately think: "Could someone do this to ME?"
+- "270 million Americans" is the scale reveal that makes it a business, not just a party trick.
+- The product pitch comes AFTER the viral moment, not during it. Hook stops the scroll. Body converts.
 
 **Production requirements:**
 - 2 people at a table (Jackson or actor + stranger/actor)
